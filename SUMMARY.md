@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome 👋](README.md)
+* [Welcomee 👋](README.md)
 
 ## AUTO TRANSLATION
 
