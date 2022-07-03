@@ -2,7 +2,7 @@
 description: Welcome to the auto translate bot documentation 📒
 ---
 
-# Welcome 👋
+# Welcomee 👋
 
 ## Quick Start !!
 
