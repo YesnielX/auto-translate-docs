@@ -14,7 +14,7 @@ description: See the supported languages
 | Kannada        | kn           |
 | Kazakh         | kk           |
 | Afrikaans      | af           |
-| Albanian       | aq           |
+| Albanian       | sq or al     |
 | Amharic        | am           |
 | Arabic         | ar           |
 | Armenian       | hy           |
