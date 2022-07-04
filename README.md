@@ -8,8 +8,8 @@ description: Welcome to the auto translate bot documentation 📒
 
 #### Translate Messages With Commands.
 
-![](<.gitbook/assets/one (2).gif>)
+![](<.gitbook/assets/command-translation.gif>)
 
-#### Configure Your Server Channels For Machine Translation.
+#### Configure Your Server Channels For Auto Translations.
 
-![](<.gitbook/assets/two (1).gif>)
+![](<.gitbook/assets/channel-config.gif>)

@@ -27,7 +27,7 @@ description: See the supported languages
 | Catalan        | ca           |
 | Cebuano        | ceb          |
 | Chichewa       | ny           |
-| Chinese        | cn           |
+| Chinese        | cn or ch     |
 | Corsican       | co           |
 | Croatian       | ht           |
 | Czech          | cs           |

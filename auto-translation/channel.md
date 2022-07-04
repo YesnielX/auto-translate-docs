@@ -4,7 +4,26 @@ description: Configure your server channels to translate automatically
 
 # Channels
 
-## Channels Configuration
+## Channels New Configuration
+
+Run the command **`.channel`** to get a short information about this command
+
+
+```
+.channel
+```
+
+![](../.gitbook/assets/channel-cmd.png)
+![](../.gitbook/assets/channel-config.gif)
+
+
+### **Continue the Bot instructions, it is very easy from here**
+<br>
+
+___
+
+<br><br>
+## Channels Old Configuration
 
 Run the command **`.channel`** to get a short information about this command
 

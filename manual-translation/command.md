@@ -2,6 +2,8 @@
 description: Translate Messages With Command
 ---
 
+
+
 # Command
 
 ## # Usage
@@ -18,8 +20,8 @@ Write the  **Server prefix + the country code** to translate the message into th
 .fr Hello Guys
 ```
 
-![](<../.gitbook/assets/image (11).png>)
+![](<../.gitbook/assets/command-fr.png>)
 
-![](<../.gitbook/assets/image (13).png>)
+![](<../.gitbook/assets/command-ru.png>)
 
 See the supported languages
