@@ -1,0 +1,14 @@
+{
+    "position": 4,
+    "label": "Info",
+    "collapsible": true,
+    "collapsed": false,
+    "className": "red",
+    "link": {
+      "type": "generated-index",
+      "title": "Info overview"
+    },
+    "customProps": {
+      "description": "Info Category"
+    }
+  }

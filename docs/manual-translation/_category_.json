@@ -1,0 +1,14 @@
+{
+    "position": 3,
+    "label": "Manual Translations",
+    "collapsible": true,
+    "collapsed": false,
+    "className": "red",
+    "link": {
+      "type": "generated-index",
+      "title": "Manual Translations overview"
+    },
+    "customProps": {
+      "description": "Manual Translations Category"
+    }
+  }
