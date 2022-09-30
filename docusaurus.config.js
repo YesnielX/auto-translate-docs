@@ -8,14 +8,12 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "Auto Translate Docs",
   tagline: "Auto Translate | Discord Bot",
-  url: "https://github.com",
+  url: "https://yesnielx.github.io",
   baseUrl: "/auto-translate-docs/",
-  onBrokenLinks: "throw",
+  trailingSlash: false,
+  onBrokenLinks: "ignore",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
-
-  // GitHub pages deployment config.
-  // If you aren't using GitHub pages, you don't need these.
   organizationName: "YesnielX", // Usually your GitHub org/user name.
   projectName: "auto-translate-docs", // Usually your repo name.
   deploymentBranch: "gh-pages",
