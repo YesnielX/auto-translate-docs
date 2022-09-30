@@ -9,7 +9,7 @@ const config = {
   title: "Auto Translate Docs",
   tagline: "Auto Translate | Discord Bot",
   url: "https://github.com",
-  baseUrl: "/auto-translate-docs",
+  baseUrl: "/auto-translate-docs/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
