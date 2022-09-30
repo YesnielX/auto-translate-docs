@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkauto_tranlate_docs=self.webpackChunkauto_tranlate_docs||[]).push([[4195],{2841:(t,e,a)=>{a.r(e),a.d(e,{default:()=>n});var s=a(7294),u=a(6775);function n(){return s.createElement(u.l_,{to:"https://yesnielx.github.io/auto-translate-docs/docs"})}}}]);
