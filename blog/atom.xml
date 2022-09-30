@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://yesnielx.github.io/auto-translate-docs/blog</id>
+    <title>Auto Translate Docs Blog</title>
+    <updated>2022-09-30T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://yesnielx.github.io/auto-translate-docs/blog"/>
+    <subtitle>Auto Translate Docs Blog</subtitle>
+    <icon>https://yesnielx.github.io/auto-translate-docs/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>welcome</id>
+        <link href="https://yesnielx.github.io/auto-translate-docs/blog/welcome"/>
+        <updated>2022-09-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Welcome to the blog auto translate, join to support server on discord]]></summary>
+        <content type="html"><![CDATA[<p>Welcome to the blog auto translate, <a href="https://discord.gg/MWvfKPUn6g" target="_blank" rel="noopener noreferrer">join to support server on discord</a></p>]]></content>
+        <author>
+            <name>YesnielX</name>
+            <uri>https://github.com/yesnielx</uri>
+        </author>
+        <category label="auto-translate" term="auto-translate"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update Version 2.2.0]]></title>
+        <id>Update Version 2.2.0</id>
+        <link href="https://yesnielx.github.io/auto-translate-docs/blog/Update Version 2.2.0"/>
+        <updated>2022-09-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="language-diff codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-diff codeBlock_bY9V thin-scrollbar"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token diff bold prefix diff">!</span><span class="token diff bold line">! Minor UPDATE: 17/09/2022 !! 2.2.0</span><br></span><span class="token-line" style="color:#393A34"><span class="token diff bold line"></span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token inserted-sign inserted prefix inserted" style="color:#36acaa">+</span><span class="token inserted-sign inserted line" style="color:#36acaa"> add enable or disable reaction translations configuration</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg class="copyButtonIcon_y97N" viewBox="0 0 24 24"><path d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg class="copyButtonSuccessIcon_LjdS" viewBox="0 0 24 24"><path d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>]]></content>
+        <author>
+            <name>YesnielX</name>
+            <uri>https://github.com/yesnielx</uri>
+        </author>
+        <category label="auto-translate" term="auto-translate"/>
+        <category label="autotranslate" term="autotranslate"/>
+        <category label="version2.2.0" term="version2.2.0"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update Version 2.1.0]]></title>
+        <id>Update Version 2.1.0</id>
+        <link href="https://yesnielx.github.io/auto-translate-docs/blog/Update Version 2.1.0"/>
+        <updated>2022-09-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="language-diff codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-diff codeBlock_bY9V thin-scrollbar"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token diff bold prefix diff">!</span><span class="token diff bold line">! Minor UPDATE: 15/09/2022 !! 2.1,0</span><br></span><span class="token-line" style="color:#393A34"><span class="token diff bold line"></span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token inserted-sign inserted prefix inserted" style="color:#36acaa">+</span><span class="token inserted-sign inserted line" style="color:#36acaa"> add mirror channels ( 10 max mirror channels )</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg class="copyButtonIcon_y97N" viewBox="0 0 24 24"><path d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg class="copyButtonSuccessIcon_LjdS" viewBox="0 0 24 24"><path d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>]]></content>
+        <author>
+            <name>YesnielX</name>
+            <uri>https://github.com/yesnielx</uri>
+        </author>
+        <category label="auto-translate" term="auto-translate"/>
+        <category label="autotranslate" term="autotranslate"/>
+        <category label="version2.1.0" term="version2.1.0"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update Version 2.0.0]]></title>
+        <id>Update Version 2.0.0</id>
+        <link href="https://yesnielx.github.io/auto-translate-docs/blog/Update Version 2.0.0"/>
+        <updated>2022-09-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="language-diff codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-diff codeBlock_bY9V thin-scrollbar"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token diff bold prefix diff">!</span><span class="token diff bold line">! UPDATE: 09/9/2022 !! V 2.0.0</span><br></span><span class="token-line" style="color:#393A34"><span class="token diff bold line"></span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token inserted-sign inserted prefix inserted" style="color:#36acaa">+</span><span class="token inserted-sign inserted line" style="color:#36acaa"> DiscordJS v14</span><br></span><span class="token-line" style="color:#393A34"><span class="token inserted-sign inserted line" style="color:#36acaa"></span><span class="token inserted-sign inserted prefix inserted" style="color:#36acaa">+</span><span class="token inserted-sign inserted line" style="color:#36acaa"> Slash Commands</span><br></span><span class="token-line" style="color:#393A34"><span class="token inserted-sign inserted line" style="color:#36acaa"></span><span class="token inserted-sign inserted prefix inserted" style="color:#36acaa">+</span><span class="token inserted-sign inserted line" style="color:#36acaa"> another minimal fixes</span><br></span><span class="token-line" style="color:#393A34"><span class="token inserted-sign inserted line" style="color:#36acaa"></span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token deleted-sign deleted prefix deleted" style="color:#d73a49">-</span><span class="token deleted-sign deleted line" style="color:#d73a49"> Normal commands with prefix</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg class="copyButtonIcon_y97N" viewBox="0 0 24 24"><path d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg class="copyButtonSuccessIcon_LjdS" viewBox="0 0 24 24"><path d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>]]></content>
+        <author>
+            <name>YesnielX</name>
+            <uri>https://github.com/yesnielx</uri>
+        </author>
+        <category label="auto-translate" term="auto-translate"/>
+        <category label="autotranslate" term="autotranslate"/>
+        <category label="version2.0.0" term="version2.0.0"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update Version 1.5.0]]></title>
+        <id>Update Version 1.5.0</id>
+        <link href="https://yesnielx.github.io/auto-translate-docs/blog/Update Version 1.5.0"/>
+        <updated>2022-07-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div class="language-diff codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-diff codeBlock_bY9V thin-scrollbar"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token diff bold prefix diff">!</span><span class="token diff bold line">! Update: 05/07/2022 !!</span><br></span><span class="token-line" style="color:#393A34"><span class="token diff bold line"></span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token diff bold prefix diff">!</span><span class="token diff bold line">! New and big Update !!</span><br></span><span class="token-line" style="color:#393A34"><span class="token diff bold line"></span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token inserted-sign inserted prefix inserted" style="color:#36acaa">+</span><span class="token inserted-sign inserted line" style="color:#36acaa"> New Channel Configuration (Buttons and Modal)</span><br></span><span class="token-line" style="color:#393A34"><span class="token inserted-sign inserted line" style="color:#36acaa"></span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token inserted-sign inserted prefix inserted" style="color:#36acaa">+</span><span class="token inserted-sign inserted line" style="color:#36acaa"> New Server Configuration (auto-delete msg translations (in seconds, 0 seconds for never delete messages) | Buttons and Modal)</span><br></span><span class="token-line" style="color:#393A34"><span class="token inserted-sign inserted line" style="color:#36acaa"></span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token inserted-sign inserted prefix inserted" style="color:#36acaa">+</span><span class="token inserted-sign inserted line" style="color:#36acaa"> More advanced informations in the translated embed (Jump to message, translated languages, and who requested) </span><br></span><span class="token-line" style="color:#393A34"><span class="token inserted-sign inserted line" style="color:#36acaa"></span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token inserted-sign inserted prefix inserted" style="color:#36acaa">+</span><span class="token inserted-sign inserted line" style="color:#36acaa"> Functional languages fixed (Swedish, Danish, Albanian [sq —&gt; al], Greek, Serbian, Bosnian, Indian, Urdu, (zh-tw = ch, chineese) languages, and anothers) </span><br></span><span class="token-line" style="color:#393A34"><span class="token inserted-sign inserted line" style="color:#36acaa"></span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token inserted-sign inserted prefix inserted" style="color:#36acaa">+</span><span class="token inserted-sign inserted line" style="color:#36acaa"> Other updates and bug fixes</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="Copy code to clipboard" title="Copy" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg class="copyButtonIcon_y97N" viewBox="0 0 24 24"><path d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg class="copyButtonSuccessIcon_LjdS" viewBox="0 0 24 24"><path d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>]]></content>
+        <author>
+            <name>YesnielX</name>
+            <uri>https://github.com/yesnielx</uri>
+        </author>
+        <category label="update" term="update"/>
+        <category label="1.5.0-version" term="1.5.0-version"/>
+        <category label="version1.5.0" term="version1.5.0"/>
+        <category label="auto-translate" term="auto-translate"/>
+        <category label="autotranslate" term="autotranslate"/>
+    </entry>
+</feed>
