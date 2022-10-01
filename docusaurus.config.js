@@ -71,6 +71,11 @@ const config = {
           { to: "/blog", label: "Blog", position: "left" },
           { to: "/terms", label: "Terms Of Service", position: "left" },
           {
+            to: "/privacy",
+            label: "Privacy Policy",
+            position: "left",
+          },
+          {
             label: "Support",
             href: "https://discord.gg/MWvfKPUn6g",
             position: "right",
