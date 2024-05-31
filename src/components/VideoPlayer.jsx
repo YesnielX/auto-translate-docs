@@ -1,36 +1,40 @@
 // src/components/CustomVideo.jsx
 
-import Plyr from "plyr-react";
-import "./plyr.css";
-import "./plyr.custom.css";
-
-import React, { useRef } from 'react';
-
+import BrowserOnly from "@docusaurus/BrowserOnly";
+import React from 'react';
 
 const VideoPlayer = ({ src }) => {
-    const videoRef = useRef(null);
-
-    const plyrProps = {
-        source: {
-            type: "video",
-            sources: [
-                {
-                    src,
-                    provider: "html5",
-                },
-            ],
-        },
-        options: {
-            controls: ["play-large", "progress", "current-time"],
-            autoplay: true,
-            resetOnEnd: true
-        }
-    }
-
     return (
-        <div>
-            <Plyr {...plyrProps} />
-        </div>
+        <BrowserOnly fallback={<div>Loading...</div>}>
+            {() => {
+                const Plyr = require('plyr-react').default;
+                require("./plyr.css");
+                require("./plyr.custom.css");
+
+                const plyrProps = {
+                    source: {
+                        type: "video",
+                        sources: [
+                            {
+                                src,
+                                provider: "html5",
+                            },
+                        ],
+                    },
+                    options: {
+                        controls: ["play-large", "progress", "current-time"],
+                        autoplay: true,
+                        resetOnEnd: true
+                    }
+                };
+
+                return (
+                    <div>
+                        <Plyr {...plyrProps} />
+                    </div>
+                );
+            }}
+        </BrowserOnly>
     );
 };
 
