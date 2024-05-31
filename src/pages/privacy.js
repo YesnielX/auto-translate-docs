@@ -10,7 +10,7 @@ export default function Terms() {
         <h2 style={{ textAlign: "center" }}>
           <b>PRIVACY POLICY</b>
         </h2>
-        <p>Effective date: 2022-09-28</p>
+        <p>Effective date: 2024-05-20</p>
         <p>
           1. <b>Introduction</b>
         </p>
@@ -658,7 +658,6 @@ export default function Terms() {
           <a href="https://policymaker.io/privacy-policy/">Privacy Policy</a>{" "}
           was created for{" "}
           <b>https://yesnielx.github.io/auto-translate-docs/</b> by{" "}
-          <a href="https://policymaker.io">PolicyMaker.io</a> on 2022-09-28.
         </p>
       </div>
     </Layout>

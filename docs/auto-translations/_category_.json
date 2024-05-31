@@ -1,12 +1,12 @@
 {
     "position": 2,
-    "label": "Auto Translations",
+    "label": "Auto Translations Methods",
     "collapsible": true,
     "collapsed": false,
     "className": "red",
     "link": {
       "type": "generated-index",
-      "title": "Auto Translations overview"
+      "title": "Auto Translations Methods overview"
     },
     "customProps": {
       "description": "Auto Translations Category"

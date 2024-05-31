@@ -1,6 +1,5 @@
-import React from "react";
-import { Redirect } from "react-router-dom";
+import { Redirect } from '@docusaurus/router';
 
 export default function Home() {
-  return <Redirect to="docs/" />;
+  return <Redirect to="/auto-translate-docs/docs" />;
 }

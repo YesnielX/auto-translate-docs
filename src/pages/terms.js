@@ -13,7 +13,7 @@ export default function Terms() {
         <h2 style={{ textAlign: "center" }}>
           <b>TERMS AND CONDITIONS</b>
         </h2>
-        <p>Last updated: 2022-09-28</p>
+        <p>Last updated: 2022-05-20</p>
         <p>
           1. <b>Introduction</b>
         </p>
@@ -500,7 +500,6 @@ export default function Terms() {
             Terms of Service
           </a>{" "}
           were created for <b>https://yesnielx.github.io/auto-translate-docs</b>{" "}
-          by <a href="https://policymaker.io">PolicyMaker.io</a> on 2022-09-28.
         </p>
       </div>
     </Layout>

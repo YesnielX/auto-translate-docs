@@ -1,8 +1,9 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require("prism-react-renderer/themes/github");
-const darkCodeTheme = require("prism-react-renderer/themes/dracula");
+const { themes } = require('prism-react-renderer');
+const lightTheme = themes.github;
+const darkTheme = themes.dracula;
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -58,26 +59,31 @@ const config = {
       navbar: {
         title: "Auto Translate Docs",
         logo: {
-          alt: "My Site Logo",
-          src: "img/auto_translate.png",
+          alt: "Auto Translate Logo",
+          src: "img/auto_translate.gif",
+          style: {
+            borderRadius: "5px",
+            height: "120%",
+            marginTop: "-5px"
+          }
         },
         items: [
           {
             type: "doc",
             docId: "intro",
             position: "left",
-            label: "Docs",
+            label: "Home",
           },
           { to: "/blog", label: "Blog", position: "left" },
-          { to: "/terms", label: "Terms Of Service", position: "left" },
+          { to: "/terms", label: "Terms of service", position: "left" },
           {
             to: "/privacy",
-            label: "Privacy Policy",
+            label: "Privacy policy",
             position: "left",
           },
           {
             label: "Support",
-            href: "https://discord.gg/MWvfKPUn6g",
+            href: "https://discord.gg/paw3uX6zaC",
             position: "right",
           },
         ],
@@ -99,7 +105,7 @@ const config = {
             items: [
               {
                 label: "Discord",
-                href: "https://discord.gg/MWvfKPUn6g",
+                href: "https://discord.gg/paw3uX6zaC",
               },
             ],
           },
@@ -124,8 +130,8 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} Auto Translate by YesnielX, Inc. Built with Docusaurus.`,
       },
       prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
+        theme: lightTheme,
+        darkTheme: darkTheme,
       },
     }),
 };
