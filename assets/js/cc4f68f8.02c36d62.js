@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkauto_tranlate_docs=self.webpackChunkauto_tranlate_docs||[]).push([[3211],{6219:t=>{t.exports=JSON.parse('{"permalink":"/auto-translate-docs/blog/tags/1-5-0-version","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

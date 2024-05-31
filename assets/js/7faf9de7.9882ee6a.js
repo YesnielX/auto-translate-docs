@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkauto_tranlate_docs=self.webpackChunkauto_tranlate_docs||[]).push([[3955],{6845:a=>{a.exports=JSON.parse('{"label":"version1.5.0","permalink":"/auto-translate-docs/blog/tags/version-1-5-0","allTagsPath":"/auto-translate-docs/blog/tags","count":1}')}}]);

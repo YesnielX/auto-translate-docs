@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkauto_tranlate_docs=self.webpackChunkauto_tranlate_docs||[]).push([[1903],{1912:a=>{a.exports=JSON.parse('{"blogBasePath":"/auto-translate-docs/blog","blogTitle":"Blog"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkauto_tranlate_docs=self.webpackChunkauto_tranlate_docs||[]).push([[2800],{8162:t=>{t.exports=JSON.parse('{"metadata":{"permalink":"/auto-translate-docs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":5,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

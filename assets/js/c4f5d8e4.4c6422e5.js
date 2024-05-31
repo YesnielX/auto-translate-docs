@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkauto_tranlate_docs=self.webpackChunkauto_tranlate_docs||[]).push([[2634],{5031:(t,a,s)=>{s.r(a),s.d(a,{default:()=>o});var e=s(5557),u=s(6070);function o(){return(0,u.jsx)(e.rd,{to:"/auto-translate-docs/docs"})}}}]);
